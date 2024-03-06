@@ -1,2 +1,4 @@
 # HR-Attrition-Analysis-Dashboard
-Project for data analysis
+Project for Data Analysis.
+<br>
+Using Excel and Power-Bi.
